@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">4040E034TEST3</string>
+    <string name="title_activity_page2">page2</string>
+    <string name="id">帳號</string>
+    <string name="pswd">密碼</string>
+    <string name="phone">手機號碼</string>
+    <string name="button1">介紹</string>
+    <string name="title_activity_page3">page3</string>
+    <string name="test">拜會</string>
+</resources>
